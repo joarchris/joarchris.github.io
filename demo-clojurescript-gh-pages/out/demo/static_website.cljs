@@ -1,3 +1,3 @@
 (ns demo.static-website)
 
-(js/console.log "Hello, Github Pages!")
+(js/console.log "Hallaien, Fjellsport skjermbrev!")
